@@ -1,0 +1,7 @@
+functional interface
+consumer  only input  ---accept
+predicate  returns true or false --test
+supplier only supplies/output   --- get
+function both input and output  ---apply
+
+
